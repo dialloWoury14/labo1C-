@@ -1,0 +1,5 @@
+D:\C#\Labo\Labo1\Labo1\Labo1\bin\Debug\Labo1.exe.config
+D:\C#\Labo\Labo1\Labo1\Labo1\bin\Debug\Labo1.exe
+D:\C#\Labo\Labo1\Labo1\Labo1\bin\Debug\Labo1.pdb
+D:\C#\Labo\Labo1\Labo1\Labo1\obj\Debug\Labo1.exe
+D:\C#\Labo\Labo1\Labo1\Labo1\obj\Debug\Labo1.pdb
